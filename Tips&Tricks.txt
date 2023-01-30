@@ -1,0 +1,5 @@
+=> Hex to RGB calculator!!
+ -> #1d9bf0 to rgb(29, 155, 240)
+
+=> Use padding instead of height/width!!
+ -> padding-left,right,top,bottom instead of height/width
