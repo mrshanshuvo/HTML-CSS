@@ -3,3 +3,14 @@
 
 => Use padding instead of height/width!!
  -> padding-left,right,top,bottom instead of height/width
+
+=> alt+press can create multiple cursor at the same time
+ -> MD> Shahid
+    MD> Hasan
+    MD> Shuvo
+
+=> alt+up/down button can casue to swap the lines
+    What is your name?
+    My name is Shahid Hasan Shuvo.
+
+=> Command Palette (ctrl+shift+p) / (fn+f1)
