@@ -1,16 +1,26 @@
 => Hex to RGB calculator!!
  -> #1d9bf0 to rgb(29, 155, 240)
 
+=> HTML Validator and CSS Validator for Websites
+
 => Use padding instead of height/width!!
  -> padding-left,right,top,bottom instead of height/width
 
-=> alt+press can create multiple cursor at the same time
+=> (alt + press) can create multiple cursor at the same time
  -> MD> Shahid
     MD> Hasan
     MD> Shuvo
 
-=> alt+up/down button can casue to swap the lines
+=> (alt + up/down) button can casue to swap the lines
     What is your name?
     My name is Shahid Hasan Shuvo.
 
 => Command Palette (ctrl+shift+p) / (fn+f1)
+
+=> HTML Entities (Different kinds of Symbol)
+
+=> <iframe src="https://www.youtube.com/embed/HWU5rqjWF_4"></iframe>
+ -> https://www.youtube.com/watch?v=HWU5rqjWF_4
+ -> https://www.youtube.com/embed/(add after watch= main url)
+
+=> https://formspree.io/ (for creating form and collect data via an email)
