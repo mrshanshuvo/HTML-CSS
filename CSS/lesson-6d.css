@@ -1,0 +1,17 @@
+p{
+    font-family: montserrat;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.fpara{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.spara{
+    text-align: center;
+    margin-top: 10px;
+}
+.underline{
+    text-decoration: underline;
+}
