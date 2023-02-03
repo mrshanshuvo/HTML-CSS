@@ -1,0 +1,29 @@
+p {
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .money {
+    font-size: 30px;
+  }
+  .us-dollar {
+    font-size: 15px;
+    color: rgb(176, 176, 176);
+    margin-left: 5px;
+  }
+  .index-para {
+    font-size: 15px;
+    color: green;
+    margin-top: 5px;
+  }
+  .last-line {
+    font-size: 15px;
+    margin-top: 5px;
+  }
+  .some-words {
+    color: rgb(176, 176, 176);
+    margin-right: 4px;
+  }
+  .second-index {
+    color: red;
+  }

@@ -1,0 +1,25 @@
+p {
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+  }
+  .name {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  .username {
+    color: rgb(100, 100, 100);
+  }
+  .spara {
+    margin-top: 7px;
+    width: 550px;
+  }
+  .tpara {
+    margin-top: 20px;
+  }
+  .username2 {
+    color: deepskyblue;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
