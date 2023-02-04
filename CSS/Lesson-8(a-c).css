@@ -1,0 +1,32 @@
+.name-bar{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.email-bar{
+    display: block;
+}
+
+.customer-care{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.google-logo{
+    width: 150px;
+    display: block;
+    margin-left: 200px;
+}
+
+.search-bar{
+    margin-left: 50px;
+    width: 425px;
+    padding-left: 12px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: lightgray;
+    
+}

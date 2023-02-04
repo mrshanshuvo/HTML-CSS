@@ -1,0 +1,49 @@
+.first-bar{
+    width: 92px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+input,button{
+    margin-top: 10px;
+}
+
+.last-bar{
+    width: 92px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.email-bar{
+    width: 205px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.sign-button{
+    background-color: rgb(8, 98, 254);
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 83px;
+    padding-right: 84px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
