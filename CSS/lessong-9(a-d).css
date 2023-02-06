@@ -1,0 +1,60 @@
+div{
+    margin-top: 15px;
+}
+.square{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block
+}
+
+.circle{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.ques-p{
+    border: solid;
+    border-width: 1px;
+    width: 250px;
+    border-color: lightgray;
+}
+
+.ques-para{
+    margin-left: 10px;
+}
+
+.yes-button{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.youtube-music{
+    background-color: rgb(46, 46, 46);
+    font-family: Arial;
+    width: 360px;
+}
+
+.install,.description{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.install{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.description{
+    color: gray;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
