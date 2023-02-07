@@ -1,0 +1,43 @@
+.cat123,
+.para1,
+.para2,
+.add-button {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: arial;
+}
+div {
+  width: 200px;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.cat123 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 7px;
+}
+.para1 {
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+.para2 {
+  color: rgb(160, 160, 160);
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+
+.add-button {
+  border: none;
+  background-color: rgb(24, 119, 242);
+  border-radius: 3px;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}

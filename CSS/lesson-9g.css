@@ -1,0 +1,42 @@
+div{
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-right: 5px;
+    width: 200px;
+    display: inline-block;
+}
+.para1,.para2,button{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: arial;
+    margin-left: 8px;
+    cursor: pointer;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.para1{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.para2{
+    color: gray;
+    margin-bottom: 8px;
+    font-size: 13px;
+}
+
+button{
+    border: none;
+    border-radius: 2px;
+    background-color:  rgb(49, 135, 255);
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 13px;
+    padding-left: 13px;
+    margin-bottom: 10px;
+}
