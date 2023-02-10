@@ -1,0 +1,40 @@
+.display-grid{
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+.fdiv-info{
+    background-color: lightblue;
+}
+.sdiv-info{
+    background-color: lightpink;
+}
+
+.display-grid2{
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+
+.div3{
+    background-color: lightblue;
+}
+
+.div4{
+    background-color: lightpink;
+}
+
+.div5{
+    background-color: lightblue;
+}
+
+.display-grid3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 10px;
+}
+
+.div-col{
+    background-color: lightpink;
+}

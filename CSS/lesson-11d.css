@@ -1,0 +1,73 @@
+.grid-div{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 15px;
+    align-items: center;
+}
+.div-info{
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    background-color: lightblue;
+}
+
+.main-pro{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.para1,button{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: arial;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.sub-div3{
+    width: 40px;
+    margin-left: 8px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.mutual-img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: none;
+    object-fit: cover;
+    object-position: center;
+}
+
+.para2div{
+    width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.para1{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.para2{
+    color: gray;
+    font-size: 15px;
+    margin-top: 0;
+    width: 100px;
+}
+
+button{
+    border: none;
+    border-radius: 2px;
+    background-color:  rgb(49, 135, 255);
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 13px;
+    padding-left: 13px;
+    margin-bottom: 10px;
+}
