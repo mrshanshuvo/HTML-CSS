@@ -1,0 +1,70 @@
+div,p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: arial;
+    font-size: 15px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 410px;
+    justify-content: space-between;
+}
+.profile-pic{
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.cat-pic{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 30px;
+}
+.username-bar,.tweet-bar{
+    margin-bottom: 5px;
+}
+.original-name{
+    display: inline-block;
+    font-weight: bold;
+}
+.username{
+    display: inline-block;
+    color: rgb(94, 94, 94);
+}
+.twitter-details{
+    display: flex;
+    flex-direction: column;
+}
+
+.video-interface{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.blackout{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(190, 190, 190);
+    margin-right: 10px;
+}
+
+.video-details{
+    flex: 1;
+}
+
+.youtube-bar{
+    color: rgb(111, 111, 111);
+    margin-bottom: 3px;
+}
+
+.video-info{
+    line-height: 22px;
+}
