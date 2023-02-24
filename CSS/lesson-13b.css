@@ -1,0 +1,29 @@
+.flex-div{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.fdiv{
+    background-color: lightpink;
+    width: 100px;
+}
+
+.sdiv{
+    background-color: lightblue;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.div4{
+    background-color: black;
+    color: white;
+}
+
+.div2{
+    background-color: black;
+    color: white;
+}
