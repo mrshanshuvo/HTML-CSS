@@ -1,0 +1,17 @@
+.stick-page{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.left-side{
+    background-color: green;
+    color: white;
+    position: fixed;
+    width: 100px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
